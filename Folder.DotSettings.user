@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=475ed079_002Dca51_002D4efc_002Da19e_002D8b75e6115f55/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestCase1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2F7344D-B3B0-DFB6-62A0-51917D7E7AC2::net8.0::Patterns.Command.Exercise.TestClass&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2F7344D-B3B0-DFB6-62A0-51917D7E7AC2::net8.0::Patterns.InterpreterPattern.Interpreter1.TestCase1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2F7344D-B3B0-DFB6-62A0-51917D7E7AC2::net8.0::Patterns.InterpreterPattern.Interpreter1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2F7344D-B3B0-DFB6-62A0-51917D7E7AC2::net8.0::Patterns.InterpreterPattern.ExerciseTest.TestCase1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2F7344D-B3B0-DFB6-62A0-51917D7E7AC2::net8.0::Patterns.InterpreterPattern.ExerciseTest.TestCase2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2F7344D-B3B0-DFB6-62A0-51917D7E7AC2::net8.0::Patterns.InterpreterPattern.ExerciseTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2F7344D-B3B0-DFB6-62A0-51917D7E7AC2::net8.0::Patterns.IteratorPattern.Iterator1.Iterator.TestCase1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e5af5285_002D0245_002D40d0_002Dbdc3_002D1c442207cbf6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestCase1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2F7344D-B3B0-DFB6-62A0-51917D7E7AC2::net8.0::Patterns.IteratorPattern.Iterator1.Iterator.TestCase1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2F7344D-B3B0-DFB6-62A0-51917D7E7AC2::net8.0::Patterns.IteratorPattern.BinaryTree.Iterator.TestCase1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
